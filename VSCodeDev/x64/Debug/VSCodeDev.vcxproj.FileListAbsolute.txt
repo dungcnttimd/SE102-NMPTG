@@ -1,0 +1,6 @@
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\VSCodeDev.vcxproj.CopyComplete
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\VSCodeDev.exe
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\D3DCompiler_43.dll
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\d3dx9d_43.dll
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\d3dx10d_43.dll
+D:\Sach_TaiLieu_Data\SE102_NhapMonPhatTrienGame\GIT\VSCodeDev\x64\Debug\d3dx11d_43.dll
